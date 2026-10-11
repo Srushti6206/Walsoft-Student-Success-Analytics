@@ -1,0 +1,78 @@
+fNAME,lNAME,Age,gender,country,residence,entryEXAM,prevEducation,studyHOURS,Python,DB,Student_Segment
+Christina,Binger,44,Female,Norway,Private,72,Masters,158,59.0,55,High Performers
+Alex,Walekhwa,60,M,Kenya,Private,79,Diploma,150,60.0,75,High Performers
+Philip,Leo,25,Male,Uganda,Sognsvann,55,HighSchool,130,74.0,50,High-Risk / At-Risk
+Shoni,Hlongwane,22,F,Rsa,Sognsvann,40,High School,120,81.0,44,High-Risk / At-Risk
+Maria,Kedibone,23,Female,South Africa,Sognsvann,65,High School,122,91.0,80,High-Risk / At-Risk
+Hannah,Hansen,25,female,Norge,BI Residence,66,High School,130,88.0,59,High-Risk / At-Risk
+Ole,Johansen,27,Male,Norway,BI-Residence,90,Bachelors,156,80.0,91,Moderate Performers
+Lars,Olsen,29,Male,norway,BIResidence,89,Barrrchelors,160,85.0,60,Moderate Performers
+Bjørn,Larsen,31,Male,Norway,BI Residence,88,Bachelors,156,80.0,89,Moderate Performers
+Sofie,Jensen,33,Female,Denmark,BI_Residence,85,Bachelors,160,83.0,90,Moderate Performers
+Emma,de Vries,34,Female,Netherlands,BI Residence,65,Bachelors,156,79.0,58,Moderate Performers
+Solveig,Eliassen,36,Female,Norway,Private,70,diploma,156,80.0,55,Moderate Performers
+Odd,Knudsen,38,male,Norway,Private,91,DIPLOMA,156,85.0,99,High Performers
+Grethe,Myklebust,40,Female,Norway,Private,77,Diplomaaa,144,70.0,76,High Performers
+Marco,Rossi,42,Male,Italy,Private,80,Bachelors,152,75.0,77,High Performers
+Ingrid,Eide,43,Female,Norway,Private,81,Bachelors,156,80.0,82,High Performers
+Hanna,Andresen,45,Female,Norway,Private,85,Bachelors,156,87.0,82,High Performers
+Jorunn,Eliassen,47,Female,Norway,Private,86,Bachelors,156,80.0,78,High Performers
+Sebastian,Kristiansen,48,Male,Norway,Private,75,Bachelors,148,76.0,73,High Performers
+Camilla,Mikkelsen,50,Female,Norway,Private,95,Masters,160,84.0,90,High Performers
+Prof,Birkeland,22,Male,Norway,BI Residence,45,High School,116,33.0,30,High-Risk / At-Risk
+Hanna,Isaksen,24,Female,Norway,BI Residence,50,High School,114,30.0,50,High-Risk / At-Risk
+Kristine,Berg,26,Female,Norway,BI Residence,55,High School,140,61.0,56,High-Risk / At-Risk
+Carmen,Rodríguez,28,Female,Spain,BI Residence,78,Bachelors,156,80.0,55,Moderate Performers
+Odd,Ahmed,30,Male,Norway,BI Residence,82,Bachelors,156,82.0,65,Moderate Performers
+Gunnar,Brekke,32,Male,Norway,BI Residence,81,Bachelors,158,85.0,83,Moderate Performers
+Gerd,Bakken,35,Female,Norway,BI Residence,92,Masters,160,87.0,88,Moderate Performers
+Aisha,Nakaweesi,37,Female,Uganda,Private,55,Diploma,142,66.0,58,High-Risk / At-Risk
+Kato,Muwanguzi,39,Male,Uganda,Private,80,Bachelors,156,81.0,69,High Performers
+Nansubuga,Nakalema,41,Female,Uganda,Private,86,Bachelors,154,81.0,91,High Performers
+Joakim,Edvardsen,44,Male,Norway,Private,78,Diploma,152,80.0,79,High Performers
+Don,Pettersen,46,Male,Norway,Private,76,Diploma,156,85.0,45,High Performers
+Perry,Rønning,71,Female,Norway,Private,30,Doctorate,120,31.0,42,High-Risk / At-Risk
+Frank,Abrahamsen,23,Male,Norway,BI Residence,68,High School,152,81.0,70,Moderate Performers
+Line,Næss,25,Female,Norway,BI Residence,98,High School,160,90.0,90,Moderate Performers
+Thor,Sandvik,27,Male,Norway,BI Residence,85,Bachelors,158,84.0,90,Moderate Performers
+Petter,Ellingsen,29,Male,Norway,BI Residence,75,Diploma,156,81.0,74,Moderate Performers
+Sindre,Hansen,31,Male,Norway,BI Residence,95,Bachelors,158,87.0,99,Moderate Performers
+Simen,Myhre,33,Female,Norway,BI Residence,50,Diploma,144,69.0,33,High-Risk / At-Risk
+Bjørg,Fredriksen,35,Male,Norway,BI Residence,68,Diploma,136,60.0,78,High-Risk / At-Risk
+Trond,Karlsen,37,Female,Norway,Private,45,Bachelors,142,57.0,50,High-Risk / At-Risk
+Emily,Thompson,39,Female,UK,Private,90,Masters,158,85.0,74,High Performers
+Unni,Jacobsen,41,Female,Norway,Private,90,Masters,156,80.0,83,High Performers
+Grethe,Brekke,43,Female,Norway,Private,96,Masters,158,87.0,92,High Performers
+Ruth,Pedersen,45,Female,Norway,Private,95,Masters,160,88.0,86,High Performers
+Inger,Jensen,47,Male,Norway,Private,89,Doctorate,160,86.0,60,High Performers
+Peninah,Andresen,22,Female,Norway,BI Residence,78,High School,148,78.0,74,Moderate Performers
+Berit,Eide,24,Female,Norway,BI Residence,54,High School,136,57.0,50,High-Risk / At-Risk
+Jenny,Kristoffersen,26,Female,Norway,BI Residence,68,High School,124,48.0,62,High-Risk / At-Risk
+Thea,Knutsen,28,Male,Norway,BI Residence,69,High School,120,45.0,70,High-Risk / At-Risk
+Dag,Arnesen,30,Male,Norway,BI Residence,95,Diploma,160,90.0,89,Moderate Performers
+Mwanaidi,Ali,32,Female,Somali,BI Residence,82,Bachelors,156,84.0,59,Moderate Performers
+Bjørn,Pedersen,21,Female,Norway,BI Residence,70,High School,138,69.0,47,High-Risk / At-Risk
+Chinedu,Morison,36,Male,Nigeria,Private,28,Diploma,120,15.0,67,High-Risk / At-Risk
+Irene,Strømertan,38,Female,Norway,Private,80,Masters,158,84.0,50,High Performers
+Chinedu,Okafor,69,Male,Nigeria,Private,94,Doctorate,160,87.0,88,High Performers
+Marianne,Ruud,42,Male,Norway,Private,91,Doctorate,158,84.0,82,High Performers
+Jens,Lunde,25,Male,Norway,BI Residence,90,High School,156,81.0,100,Moderate Performers
+Morten,Olsen,46,Female,Norway,Private,94,Doctorate,160,90.0,77,High Performers
+Karoline,Ahmed,26,Female,Norway,BI Residence,76,High School,156,84.0,61,Moderate Performers
+Ola,Bakke,50,Female,Norway,Private,81,Bachelors,158,87.0,46,High Performers
+Tore,Abrahamsen,22,Female,Norway,BI Residence,73,High School,144,70.0,55,Moderate Performers
+Caroline,Narocho,23,Female,Norway,BI Residence,90,High School,160,87.0,73,Moderate Performers
+Silvia,Berg,25,Female,Norway,BI Residence,81,High School,158,85.0,46,Moderate Performers
+Valentino,Ojiambo,27,Male,Kenya,Sognsvann,85,Bachelors,156,84.0,68,Moderate Performers
+Peter,Kubebea,29,Male,Kenya,Sognsvann,83,Bachelors,156,81.0,67,Moderate Performers
+Anna,Müller,31,Female,Germany,Sognsvann,89,Masters,160,87.0,61,Moderate Performers
+Lucas,Schmidt,33,Male,Germany,Sognsvann,98,Masters,160,87.0,86,Moderate Performers
+Marie,Dubois,35,Female,France,Sognsvann,69,Bachelors,144,69.0,45,Moderate Performers
+Thomas,García,37,Male,Spain,Private,80,Bachelors,152,78.0,62,Moderate Performers
+Emma,Janssen,39,Female,Netherlands,Private,81,Masters,160,80.0,71,High Performers
+Maximilan,Martini,50,Male,Italy,Private,74,Masters,140,63.0,60,High Performers
+Clara,Bernard,43,Female,France,Private,80,Bachelors,150,75.0,43,High Performers
+Julian,Nielsen,31,Male,Denmark,Sognsvann,90,Masters,158,84.0,83,Moderate Performers
+Sophie,Brown,33,Female,UK,Sognsvann,96,Masters,158,85.0,90,Moderate Performers
+Leon,Bauer,35,Male,Germany,Sognsvann,90,Masters,160,87.0,74,Moderate Performers
+Mohammed,Salim,31,Male,Somali,Sognsvann,35,Masters,144,72.0,90,High-Risk / At-Risk
